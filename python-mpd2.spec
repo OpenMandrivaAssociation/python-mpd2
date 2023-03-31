@@ -1,6 +1,6 @@
 Name:           python-mpd2
 Version:        3.0.1
-Release:        1
+Release:        2
 Summary:        Python bindings for MPD
 Group:          Development/Python
 License:        GPLv2
