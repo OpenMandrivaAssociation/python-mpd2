@@ -9,7 +9,8 @@ Source0:        https://github.com/Mic92/python-mpd2/archive/python-mpd2-%{versi
 BuildArch:	    noarch
 
 BuildRequires:	pkgconfig(python)
-BuildRequires:	python3dist(setuptools)
+BuildRequires:	python%{pyver}dist(setuptools)
+BuildRequires:  python%{pyver}dist(pip)
 
 
 %description
